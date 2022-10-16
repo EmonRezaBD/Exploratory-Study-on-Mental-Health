@@ -1,11 +1,10 @@
 # Mental Health of High School Students During COVID-19 Pandemic: An Exploratory Study
-This codebase is created for the research purpose. However, materials presented here are introduced for our submission to ICCIT 2022.
-
-[Conference Webpage](https://iccit.org.bd/2022/)
+This codebase is created for the research purpose. However, materials presented here are introduced for our submission to [ICCIT 2022](https://iccit.org.bd/2022/)
 
 The repository is organized as follow:
 * <code>tables</code>contains all the required tables which is mentioned in the article
 * <code>figs</code>contains all the required images mentioned in the article. (i.e. Appendix images etc.)
+* <code>README.md</code>all information about the repository
 * <code>Table III</code>which was partially shown in the article due to page constratin. It has been fully shown in the below table.
 * <code>Table III:</code>Prevalence statistics of anxiety, depression, relationship with family members and friends,
 daily activities,family financial, longer uses of electronic devices, academic/study-related 
