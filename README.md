@@ -51,3 +51,20 @@ Mental Health of High School Students During COVID-19 Pandemic: An Exploratory S
 | 18 | How often do you  spent quality time with your  family members?                                               | Once in a while            | 19        | 13.9       |
 |    |                                                                                                               | Sometimes                  | 79        | 57.7       |
 |    |                                                                                                               | Very often                 | 39        | 28.5       |
+|     | Relational state with  your parents.                                      | Excellent      | 48        | 35.0       |
+| 19  |                                                                           | Good           | 80        | 58.4       |
+|     |                                                                           | Poor           | 9         | 6.6        |
+| 20  | How often your family member have conflict among themselves?              | Never          | 31        | 22.6       |
+|     |                                                                           | Sometimes      | 88        | 64.2       |
+|     |                                                                           | Very often     | 18        | 13.1       |
+| 21  | Have you lost any very close family member   due to COVID?                | No             | 116       | 84.7       |
+|     |                                                                           | Yes            | 21        | 15.3       |
+| 22  | Have you faced any communication gaps with your friends  during lockdown? | No             | 38        | 27.7       |
+|     |                                                                           | Yes            | 99        | 72.3       |
+| 23  | Do your family faced any financial crisis for COVID  19 situation?        | No             | 98        | 71.5       |
+|     |                                                                           | Yes            | 39        | 28.5       |
+| 24  | Do you maintain COVID  hygiene habits?                                    | Always         | 94        | 68.6       |
+|     |                                                                           | Sometimes      | 43        | 31.4       |
+| 25  | How would you rate your  knowledge level regarding  COVID-19?             | Excellent      | 26        | 19.0       |
+|     |                                                                           | Good           | 92        | 67.2       |
+|     |                                                                           | Poor           | 19        | 13.9       |
