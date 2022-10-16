@@ -52,7 +52,7 @@ Mental Health of High School Students During COVID-19 Pandemic: An Exploratory S
 |    |                                                                                                               | Sometimes                  | 79        | 57.7       |
 |    |                                                                                                               | Very often                 | 39        | 28.5       |
 | 19  | Relational state with  your parents.                                      | Excellent      | 48        | 35.0       |
-| 19  |                                                                           | Good           | 80        | 58.4       |
+|     |                                                                           | Good           | 80        | 58.4       |
 |     |                                                                           | Poor           | 9         | 6.6        |
 | 20  | How often your family member have conflict among themselves?              | Never          | 31        | 22.6       |
 |     |                                                                           | Sometimes      | 88        | 64.2       |
