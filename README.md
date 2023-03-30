@@ -1,5 +1,5 @@
-# Mental Health of High School Students During COVID-19 Pandemic: An Exploratory Study
-This codebase is created for the research purpose. However, materials presented here are introduced for our submission to [ICCIT 2022](https://iccit.org.bd/2022/) <br>
+# Exploring the State and Factors Affecting Mental Health of High School Students in Bangladesh During COVID-19 Pandemic
+This codebase is created for the research purpose. However, materials presented here are introduced for our submission to [NCIM 2022](https://confncim.com/) <br>
 **Copyright: © Md. Rokonuzzaman Reza**
 
 The repository is organized as follow:
