@@ -1,6 +1,6 @@
 # Exploring the State and Factors Affecting Mental Health of High School Students in Bangladesh During COVID-19 Pandemic
 This codebase is created for the research purpose. However, materials presented here are introduced for our submission to [NCIM 2023](https://confncim.com/) <br>
-**Copyright: © Md. Rokonuzzaman Reza**
+**Copyright: © Md. Rokonuzzaman Reza 2023**
 
 The repository is organized as follow:
 * <code>figs</code>contains all the required images mentioned in the article. (i.e. Appendix images etc.)
