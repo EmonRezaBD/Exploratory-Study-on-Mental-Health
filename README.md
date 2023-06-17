@@ -12,63 +12,42 @@ daily activities,family financial, longer uses of electronic devices, academic/s
 issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
 
 
-+------------------------------------------------------------------------------------------------+-------------+---------+
-| Variable                                                                                       | Χ² (df)     | p-value |
-+------------------------------------------------------------------------------------------------+-------------+---------+
-| Low mood, sadness, feeling                                                                     | 79.126 (3)  | <0.001  |
-| blah or down, depressed, just                                                                  |             |         |
-| can’t be bothered?                                                                             |             |         |
-+------------------------------------------------------------------------------------------------+-------------+---------+
-| Feelings of worthlessness,                                                                     | 118.786 (3) | <0.001  |
-| hopelessness, letting people                                                                   |             |         |
-| down, not being a good person?                                                                 |             |         |
-+------------------------------------------------------------------------------------------------+-------------+---------+
-| Feeling tired, feeling fatigued,                                                               | 79.177 (3)  | <0.001  |
-| low in energy, hard to get                                                                     |             |         |
-| motivated, have to push                                                                        |             |         |
-| to get things done, want to                                                                    |             |         |
-| rest or lie down a lot?                                                                        |             |         |
-+------------------------------------------------------------------------------------------------+-------------+---------+
-| Feeling that life is not very                                                                  | 120.112 (3) | <0.001  |
-| much fun, not feeling good                                                                     |             |         | 
-| when usually would feel good,                                                                  |             |         |  
-| not getting as much pleasure                                                                   |             |         |  
-| from fun things as usual?                                                                      |             |         | 
-+------------------------------------------------------------------------------------------------+-------------+---------+
-| Feeling worried, nervous,                                                                      | 103.845 (3) | <0.001  | 
-| panicky, tense, keyed up,                                                                      |             |         | 
-| anxious?                                                                                       |             |         | 
-+------------------------------------------------------------------------------------------------+-------------+---------+
-| Thoughts, plans or actions                                                                     | 74.183 (3)  | <0.001  |
-| about suicide or self-harm?                                                                    |             |         |
-+------------------------------------------------------------------------------------------------+-------------+---------+
+| Variable                                            | Χ² (df)      | p-value |
+|-----------------------------------------------------|--------------|---------|
+| Feeling nervous, anxious or on edge?                | 131.256 (21) | <0.001  |
+| Not being able to stop or control worrying?         | 75.598 (12)  | <0.001  |
+| Worrying too much about different things?           | 71.482 (18)  | <0.001  |
+| Trouble relaxing                                    | 90.324 (15)  | <0.001  |
+| Being so restless that  it's hard to sit still?     | 101.532 (12) | <0.001  |
+| Becoming easily annoyed or irritable?               | 68.830(12)   | <0.001  |
+| Feeling afraid as if  something awful might happen? | 61.932 (15)  | <0.001  |
 
 
 
 
-+-------------------------------+--------------+---------+--+--+
-| Variable                      | Χ² (df)      | p-value |  |  |
-+-------------------------------+--------------+---------+--+--+
-| Feeling nervous, anxious      | 131.256 (21) | <0.001  |  |  |
-| or on edge?                   |              |         |  |  |
-+-------------------------------+--------------+---------+--+--+
-| Not being able to stop        | 75.598 (12)  | <0.001  |  |  |
-| or control worrying?          |              |         |  |  |
-+-------------------------------+--------------+---------+--+--+
-| Worrying too much about       | 71.482 (18)  | <0.001  |  |  |
-| different things?             |              |         |  |  |
-+-------------------------------+--------------+---------+--+--+
-| Trouble relaxing              | 90.324 (15)  | <0.001  |  |  |
-+-------------------------------+--------------+---------+--+--+
-| Being so restless that        | 101.532 (12) | <0.001  |  |  |
-| it's hard to sit still?       |              |         |  |  |
-+-------------------------------+--------------+---------+--+--+
-| Becoming easily annoyed       | 68.830(12)   | <0.001  |  |  |
-| or irritable?                 |              |         |  |  |
-+-------------------------------+--------------+---------+--+--+
-| Feeling afraid as if          | 61.932 (15)  | <0.001  |  |  |
-| something awful might happen? |              |         |  |  |
-+-------------------------------+--------------+---------+--+--+
+|-------------------------------|--------------|---------|
+| Variable                      | Χ² (df)      | p-value |
+|-------------------------------|--------------|---------|
+| Feeling nervous, anxious      | 131.256 (21) | <0.001  |
+| or on edge?                   |              |         |
+|-------------------------------|--------------|---------|
+| Not being able to stop        | 75.598 (12)  | <0.001  |
+| or control worrying?          |              |         | 
+|-------------------------------|--------------|---------|
+| Worrying too much about       | 71.482 (18)  | <0.001  | 
+| different things?             |              |         |  
+|-------------------------------|--------------|---------|
+| Trouble relaxing              | 90.324 (15)  | <0.001  |
+|-------------------------------|--------------|---------|
+| Being so restless that        | 101.532 (12) | <0.001  | 
+| it's hard to sit still?       |              |         |  
+|-------------------------------|--------------|---------|
+| Becoming easily annoyed       | 68.830(12)   | <0.001  | 
+| or irritable?                 |              |         |
+|-------------------------------|--------------|---------|
+| Feeling afraid as if          | 61.932 (15)  | <0.001  |
+| something awful might happen? |              |         |
+|-------------------------------|--------------|---------|
 
 
 
@@ -104,7 +83,7 @@ issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
 |    |                                                                                                               | Very cooperative           | 19        | 13.9       |
 | 11 | How much time on average  do you spend per day on  your smartphone/computer  for academic purpose?            | 2-4 hrs                    | 40        | 29.2       |
 |    |                                                                                                               | 5-8 hrs                    | 58        | 42.3       |
-|    |                                                                                                               | 9+ hrs                     | 39        | 28.5       |
+|    |                                                                                                               | 9| hrs                     | 39        | 28.5       |
 | 12 | How much time on average do you spend  per day on social media for non-academic activity?                     | 1-3 hrs                    | 57        | 41.6       |
 |    |                                                                                                               | 4-6 hrs                    | 58        | 42.3       |
 |    |                                                                                                               | 7-10 hrs                   | 22        | 16.1       |
