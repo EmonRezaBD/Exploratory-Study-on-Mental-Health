@@ -6,8 +6,8 @@ The repository is organized as follow:
 * <code>figs</code>contains all the required images mentioned in the article. (i.e. Appendix images etc.)
 * <code>tables</code>contains all the required tables which is mentioned in the article
 * <code>README.md</code>all information about the repository
-* <code>Table I</code> Group difference of having specific 6-items KADS
-* <code>Table II</code> Group difference of having specific 7-item GAD-7
+* <code>Table I</code> Group difference of having specific 6-items KADS for Depression
+* <code>Table II</code> Group difference of having specific 7-item GAD-7 for Anxiety
 * <code>Table III</code>which was partially shown in the article due to page constratin. It has been fully shown in the below table.
   Prevalence statistics of anxiety, depression, relationship with family members and friends,
 daily activities,family financial, longer uses of electronic devices, academic/study-related 
