@@ -6,10 +6,21 @@ The repository is organized as follow:
 * <code>figs</code>contains all the required images mentioned in the article. (i.e. Appendix images etc.)
 * <code>tables</code>contains all the required tables which is mentioned in the article
 * <code>README.md</code>all information about the repository
+* <code>Table I</code> Group difference of having specific 6-items KADS
+* <code>Table II</code> Group difference of having specific 7-item GAD-7
 * <code>Table III</code>which was partially shown in the article due to page constratin. It has been fully shown in the below table.
-* <code>Table III:</code>Prevalence statistics of anxiety, depression, relationship with family members and friends,
+  Prevalence statistics of anxiety, depression, relationship with family members and friends,
 daily activities,family financial, longer uses of electronic devices, academic/study-related 
 issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
+
+| Variable                                                                                                                                      | Χ² (df)     | p-value |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------|
+| Low mood, sadness, feeling blah or down, depressed, just can’t be bothered?                                                                   | 79.125 (3)  | <.001   |
+| Feelings of worthlessness, hopelessness, letting people down, not being a good person?                                                        | 118.786 (3) | <.001   |
+| Feeling tired, feeling fatigued, low in energy, hard to get motivated, have to push to get things done, want to rest or lie down a lot?       | 79.177 (3)  | <.001   |
+| Feeling that life is not very much fun, not feeling good when usually would feel good, not getting as much pleasure from fun things as usual? | 120.112 (3) | <.001   |
+| Feeling worried, nervous, panicky, tense, keyed up, anxious?                                                                                  | 103.845 (3) | <.001   |
+| Thoughts, plans or actions about suicide or self-harm?                                                                                        | 74.183 (3)  | <.001   |
 
 
 | Variable                                            | Χ² (df)      | p-value |
@@ -25,29 +36,7 @@ issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
 
 
 
-|-------------------------------|--------------|---------|
-| Variable                      | Χ² (df)      | p-value |
-|-------------------------------|--------------|---------|
-| Feeling nervous, anxious      | 131.256 (21) | <0.001  |
-| or on edge?                   |              |         |
-|-------------------------------|--------------|---------|
-| Not being able to stop        | 75.598 (12)  | <0.001  |
-| or control worrying?          |              |         | 
-|-------------------------------|--------------|---------|
-| Worrying too much about       | 71.482 (18)  | <0.001  | 
-| different things?             |              |         |  
-|-------------------------------|--------------|---------|
-| Trouble relaxing              | 90.324 (15)  | <0.001  |
-|-------------------------------|--------------|---------|
-| Being so restless that        | 101.532 (12) | <0.001  | 
-| it's hard to sit still?       |              |         |  
-|-------------------------------|--------------|---------|
-| Becoming easily annoyed       | 68.830(12)   | <0.001  | 
-| or irritable?                 |              |         |
-|-------------------------------|--------------|---------|
-| Feeling afraid as if          | 61.932 (15)  | <0.001  |
-| something awful might happen? |              |         |
-|-------------------------------|--------------|---------|
+
 
 
 
@@ -103,15 +92,15 @@ issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
 | 18 | How often do you  spent quality time with your  family members?                                               | Once in a while            | 19        | 13.9       |
 |    |                                                                                                               | Sometimes                  | 79        | 57.7       |
 |    |                                                                                                               | Very often                 | 39        | 28.5       |
-| 19  | Relational state with  your parents.                                      | Excellent      | 48        | 35.0       |
-|     |                                                                           | Good           | 80        | 58.4       |
-|     |                                                                           | Poor           | 9         | 6.6        |
-| 20  | How often your family member have conflict among themselves?              | Never          | 31        | 22.6       |
-|     |                                                                           | Sometimes      | 88        | 64.2       |
-|     |                                                                           | Very often     | 18        | 13.1       |
-| 21  | Have you lost any very close family member   due to COVID?                | No             | 116       | 84.7       |
-|     |                                                                           | Yes            | 21        | 15.3       |
-| 22  | Have you faced any communication gaps with your friends  during lockdown? | No             | 38        | 27.7       |
+| 19  | Relational state with  your parents.                                                                         | Excellent                  | 48        | 35.0       |
+|     |                                                                                                              | Good                       | 80        | 58.4       |
+|     |                                                                                                              | Poor                       | 9         | 6.6        |
+| 20  | How often your family member have conflict among themselves?                                                 | Never                      | 31        | 22.6       |
+|     |                                                                                                              | Sometimes                  | 88        | 64.2       |
+|     |                                                                                                              | Very often                 | 18        | 13.1       |
+| 21  | Have you lost any very close family member   due to COVID?                                                   | No                         | 116       | 84.7       |
+|     |                                                                                                              | Yes                        | 21        | 15.3       |
+| 22  | Have you faced any communication gaps with your friends  during lockdown?                                    | No                         | 38        | 27.7       |
 |     |                                                                           | Yes            | 99        | 72.3       |
 | 23  | Do your family faced any financial crisis for COVID  19 situation?        | No             | 98        | 71.5       |
 |     |                                                                           | Yes            | 39        | 28.5       |
