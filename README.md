@@ -1,7 +1,8 @@
 # Exploring the State and Factors Affecting Mental Health of High School Students in Bangladesh During COVID-19 Pandemic
 This codebase is created for the research purpose. However, materials presented here are introduced for our submission to [NCIM 2023](https://confncim.com/) <br>
-**Copyright: © Md. Rokonuzzaman Reza 2023**
+It is accepted in NCIM 2023 and available in IEEE Xplore. For reading the full article visit here : <code>[ 10.1109/NCIM59001.2023.10212757]([ChartCtrl](https://ieeexplore.ieee.org/abstract/document/10212757))</code>
 
+## Table of Contents 
 The repository is organized as follow:
 * <code>figs</code>contains all the required images mentioned in the article. (i.e. Appendix images etc.)
 * <code>tables</code>contains all the required tables which is mentioned in the article
@@ -9,10 +10,8 @@ The repository is organized as follow:
 * <code>Table I</code> Group difference of having specific 6-items KADS for Depression
 * <code>Table II</code> Group difference of having specific 7-item GAD-7 for Anxiety
 * <code>Table III</code>which was partially shown in the article due to page constratin. It has been fully shown in the below table.
-  Prevalence statistics of anxiety, depression, relationship with family members and friends,
-daily activities,family financial, longer uses of electronic devices, academic/study-related 
-issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
-
+## Associated Tables
+Table-1: Group difference of having specific 6-items KADS
 | Variable                                                                                                                                      | Χ² (df)     | p-value |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------|
 | Low mood, sadness, feeling blah or down, depressed, just can’t be bothered?                                                                   | 79.125 (3)  | <.001   |
@@ -22,7 +21,7 @@ issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
 | Feeling worried, nervous, panicky, tense, keyed up, anxious?                                                                                  | 103.845 (3) | <.001   |
 | Thoughts, plans or actions about suicide or self-harm?                                                                                        | 74.183 (3)  | <.001   |
 
-
+Table-2: Group difference of having specific 7-item GAD-7
 | Variable                                            | Χ² (df)      | p-value |
 |-----------------------------------------------------|--------------|---------|
 | Feeling nervous, anxious or on edge?                | 131.256 (21) | <0.001  |
@@ -33,15 +32,9 @@ issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
 | Becoming easily annoyed or irritable?               | 68.830(12)   | <0.001  |
 | Feeling afraid as if  something awful might happen? | 61.932 (15)  | <0.001  |
 
-
-
-
-
-
-
-
-
-
+Table-3: Prevalence statistics of anxiety, depression, relationship with family members and friends,
+daily activities,family financial, longer uses of electronic devices, academic/study-related 
+issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
 | No |                                                   Questions                                                   |       Classification       | Frequency | Percentage |
 |:--:|:-------------------------------------------------------------------------------------------------------------:|:--------------------------:|:---------:|:----------:|
 | 1  | Anxiety                                                                                                       | Mild to Moderate   anxiety | 84        | 61.3       |
@@ -109,3 +102,17 @@ issues, knowledge of COVID-19 of the respondents during pandemic (N=158)
 | 25  | How would you rate your  knowledge level regarding  COVID-19?             | Excellent      | 26        | 19.0       |
 |     |                                                                           | Good           | 92        | 67.2       |
 |     |                                                                           | Poor           | 19        | 13.9       |
+
+## BibTeX Citation
+
+If you use this article, we would appreciate using the following citations:
+```
+@inproceedings{reza2023factors,
+  title={Factors Affecting Mental Health of High School Students due to COVID-19: An Exploratory Study},
+  author={Reza, Md Rokonuzzaman and Islam, Muhammad Nazrul and Islam, Mohian and Mumu, Afnan Alauddin and Al Faisal, Faiz},
+  booktitle={2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
+}
+```
