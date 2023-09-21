@@ -1,6 +1,6 @@
 # Exploring the State and Factors Affecting Mental Health of High School Students in Bangladesh During COVID-19 Pandemic
 This codebase is created for the research purpose. However, materials presented here are introduced for our submission to [NCIM 2023](https://confncim.com/) <br>
-It is accepted in NCIM 2023 and available in IEEE Xplore. For reading the full article visit here : <code>[ 10.1109/NCIM59001.2023.10212757]([ChartCtrl](https://ieeexplore.ieee.org/abstract/document/10212757))</code>
+It is accepted in NCIM 2023 and available in IEEE Xplore. For reading the full article visit here : <code>[10.1109/NCIM59001.2023.10212757](https://ieeexplore.ieee.org/abstract/document/10212757)</code>
 
 ## Table of Contents 
 The repository is organized as follow:
